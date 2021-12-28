@@ -1,8 +1,7 @@
 ![git](https://user-images.githubusercontent.com/89920196/147543273-68e283e5-e3ae-42b2-9416-c4edf3bc62e1.JPG)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngthing&show_icons=true&theme=graywhite)
 
-<a href="https://youngg.notion.site/About-youngg-d1ffd53bd1d147ee831199b0987494de" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<div align=center><a href="https://youngg.notion.site/About-youngg-d1ffd53bd1d147ee831199b0987494de" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" style="width:100px;"></a><div>
 
 <!--
 **youngthing/youngthing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
