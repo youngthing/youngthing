@@ -1,3 +1,5 @@
+<img src="git.jpg">
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngthing&show_icons=true&theme=graywhite)
 
