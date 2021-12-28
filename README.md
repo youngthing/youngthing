@@ -1,5 +1,4 @@
-
-![git](https://user-images.githubusercontent.com/89920196/147542979-d7e55bb6-632b-4339-b290-aedd4424da7c.JPG)
+![git](https://user-images.githubusercontent.com/89920196/147543273-68e283e5-e3ae-42b2-9416-c4edf3bc62e1.JPG)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngthing&show_icons=true&theme=graywhite)
 
