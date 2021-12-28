@@ -1,4 +1,4 @@
-<img src="C:\Users\jinny park\Desktop\git.jpg">
+<img src="\Users\jinny park\Desktop\git.jpg">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngthing&show_icons=true&theme=graywhite)
