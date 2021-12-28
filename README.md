@@ -1,5 +1,5 @@
-<img src="\Users\jinny park\Desktop\git.jpg">
 
+![git](https://user-images.githubusercontent.com/89920196/147542979-d7e55bb6-632b-4339-b290-aedd4424da7c.JPG)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngthing&show_icons=true&theme=graywhite)
 
